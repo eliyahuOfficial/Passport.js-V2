@@ -15,8 +15,7 @@ This is a Proof of Concept (POC) project using Passport.js to manage multiple au
 
 2. Install the dependencies:
 
-   cd passport-js-poc
-   npm install
+   npm i
 
 3. Create a `.env` file in the project directory and configure the environment variables:
 
